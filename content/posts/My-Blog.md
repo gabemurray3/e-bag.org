@@ -19,4 +19,4 @@ I have a few things to do to make this website public but for now I want to just
  - [ ] make a section for progres reports and reflections
  - [ ] make a section for life events such as general conference
  - [ ] make a section for professional life events such as new job
- - [ ] 
+ - [ ] make a blog post each day
