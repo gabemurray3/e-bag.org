@@ -28,5 +28,5 @@ I have a few things to do to make this website public but for now I want to just
 - [ ] write about current family situation
 - [ ] write one missionary story
 - [ ] write about missionary service sites
-- [ ] write about my current job
+- [ ] (almost done)write about my current job
 
