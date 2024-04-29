@@ -3,6 +3,7 @@ title = 'My idea to make money '
 date = 2024-04-28T19:30:00Z
 draft = false
 +++
+# incomplete 
 # Money Making
 The gist of my money making idea is to make a gaming party bus. This idea was inspired the idea of PCI Passthrough and virtual machine software. I would use server hardware fast enough to run 4 gaming computers at once then have 4 of those servers so I can host 16 gaming players at once. 
 

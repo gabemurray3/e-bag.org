@@ -3,6 +3,7 @@ title = 'Public notes for blog'
 date = 2024-04-20T19:30:00Z
 draft = false
 +++
+# incomplete 
 
 # Gabriel Murray's blog
 
