@@ -16,4 +16,4 @@ For this post I want to explain my process of the gaming party bus in sequential
 
 I will begin with a list of essentials that are needed to build yourself a party bus without the capital to buy a bus and convert all those materials to make a gaming bus. 
 # First things first 
-The gaming computer and the games. In order to essentially rent these computers out you need these computers in the first place 
+The gaming computer and the games. In order to essentially rent these computers out you need these computers in the first place but this idea 
