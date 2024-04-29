@@ -11,5 +11,3 @@ The 16 players would remotely connect to the server through a LAN wifi connectio
 I would use 4 short throw projectors to set up in the bus to make the setup happen. 
 
 Note: you have to have the capital to buy all these components to the party bus and is recommended to take smaller steps to get started
-
-Yolo test reset test 
