@@ -4,6 +4,11 @@ date = 2024-04-20T19:45:00Z
 draft = 'false'
 +++
 # incomplete 
+#Tasks #Outline 
+- [ ] my family life (before wife)
+- [ ] after marriage life 
+- [ ] what I want my future to hold 
+- [ ] my career 
 # My career
 Today I wanted to relay my current and first corporate work experience. First thing I wanted to say is that I absolutely love my job, my current job is to watch heart rhythms and notify a nurse if there heart changes in condition. An example of a change could be a sudden increase in heart rate. 
 
