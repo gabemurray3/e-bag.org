@@ -12,4 +12,5 @@ I would use 4 short throw projectors to set up in the bus to make the setup happ
 
 Note: you have to have the capital to buy all these components to the party bus and is recommended to take smaller steps to get started
 
-I want to explain my process of the gaming party bus in sequential steps 
+For this post I want to explain my process of the gaming party bus in sequential steps with limited money to start. 
+
