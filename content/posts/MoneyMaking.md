@@ -14,3 +14,4 @@ Note: you have to have the capital to buy all these components to the party bus 
 
 For this post I want to explain my process of the gaming party bus in sequential steps with limited money to start. 
 
+I will begin with a list of essentials that are needed to 
