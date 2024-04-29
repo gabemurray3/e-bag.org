@@ -6,40 +6,33 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.125.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2024 19:45:00 +0000</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Public Journal 1</title>
-      <link>//localhost:1313/posts/first-post/</link>
-      <pubDate>Sat, 20 Apr 2024 19:45:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/first-post/</guid>
-=======
+    <lastBuildDate>Sun, 28 Apr 2024 19:30:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My idea to make money </title>
+      <link>/posts/moneymaking/</link>
+      <pubDate>Sun, 28 Apr 2024 19:30:00 +0000</pubDate>
+      <guid>/posts/moneymaking/</guid>
+      <description>Money Making The gist of my money making idea is to make a gaming party bus. This idea was inspired the idea of PCI Passthrough and virtual machine software. I would use server hardware fast enough to run 4 gaming computers at once then have 4 of those servers so I can host 16 gaming players at once.
+The 16 players would remotely connect to the server through a LAN wifi connection on a gaming steam deck device that does not run the software directly but uses the steam deck as a screen and controller.</description>
+    </item>
     <item>
       <title>Public Journal 1</title>
       <link>/posts/first-post/</link>
       <pubDate>Sat, 20 Apr 2024 19:45:00 +0000</pubDate>
       <guid>/posts/first-post/</guid>
->>>>>>> f53f6f492cd0712b3dc2143c7f853038d03dbb8e
       <description>My career Today I wanted to relay my current and first corporate work experience. First thing I wanted to say is that I absolutely love my job, my current job is to watch heart rhythms and notify a nurse if there heart changes in condition. An example of a change could be a sudden increase in heart rate.
 My work in my words My current work is similar to a call center.</description>
     </item>
     <item>
       <title>Public notes for blog</title>
-<<<<<<< HEAD
-      <link>//localhost:1313/posts/my-notes/</link>
-      <pubDate>Sat, 20 Apr 2024 19:30:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/my-notes/</guid>
-=======
       <link>/posts/my-notes/</link>
       <pubDate>Sat, 20 Apr 2024 19:30:00 +0000</pubDate>
       <guid>/posts/my-notes/</guid>
->>>>>>> f53f6f492cd0712b3dc2143c7f853038d03dbb8e
       <description>Gabriel Murray&amp;rsquo;s blog this will be my first blog that is public
 I have a few things to do to make this website public but for now I want to just get it out there on the internet
 things that i need to do are in no particular order
-connect my domain to my website Customize theme for website figure out hugo&amp;rsquo;s footer and header options figure out what the blog will be about make a section for personal items make a section for coding make a section for progres reports and reflections make a section for life events such as general conference make a section for professional life events such as new job make a blog post join exsiting note daily from personal notes starting from the oldest In Progress notes write about past family situation write about current family situation write one missionary story write about missionary service sites write about my current job </description>
+connect my domain to my website Customize theme for website figure out hugo&amp;rsquo;s footer and header options figure out what the blog will be about make a section for personal items make a section for coding make a section for progres reports and reflections make a section for life events such as general conference make a section for professional life events such as new job make a blog post join exsiting note daily from personal notes starting from the oldest In Progress notes write about past family situation write about current family situation write one missionary story write about missionary service sites (almost done)write about my current job </description>
     </item>
   </channel>
 </rss>
