@@ -18,4 +18,4 @@ I will begin with a list of essentials that are needed to build yourself a party
 # First things first 
 The gaming computer and the games. In order to essentially rent these computers out you need these computers in the first place. 
 # Beginning with the end in mind 
-You need clients to make money you have to put yourself out there to be able to munch off of the abundance 
+You need clients to make money you have to put yourself out there to be able to munch off of the abundance that others have in their capital so location and advertising is essential to this business and you must have the time to do these events
