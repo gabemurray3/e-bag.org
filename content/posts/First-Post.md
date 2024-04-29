@@ -8,4 +8,4 @@ Today I wanted to relay my current and first corporate work experience. First th
 
 # My work in my words 
 My current work is similar to a call center. Our calls are based around registered nurses (RN) and certified nurse assistant (CNA). When we call them it is about a change in condition such as conversion to atrial fibulation (AFIB) or an equipment malfunction such as patient's ECG leads being off or misaligned. We call our position a Cardiac Monitor Technician or monitor tech for short. 
-Another aspect of our job is to verify what the computer is notifying is correct. We rely on the computer to do most of the cardiac rhythm analysis. The computer will audibly ring and flash for parameters that are set by us. The parameter we set on patients are adjustable to the patients needs.
+Another aspect of our job is to verify what the computer is notifying is correct. We rely on the computer to do most of the cardiac rhythm analysis. The computer will audibly ring and flash for parameters that are set by us. The parameter we set on patients are usually. 
