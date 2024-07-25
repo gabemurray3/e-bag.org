@@ -4,6 +4,7 @@ date = 2024-04-20T19:30:00Z
 draft = false
 +++
 # incomplete 
+#Tasks #Outline
 
 # Gabriel Murray's blog
 
@@ -24,6 +25,11 @@ I have a few things to do to make this website public but for now I want to just
  - [x] make a blog post
  - [ ] join exsiting note daily from personal notes starting from the oldest
 
+[[First-Post]] #Tasks #Outline 
+- [ ] my family life (before wife)
+- [ ] after marriage life 
+- [ ] what I want my future to hold 
+- [ ] my career 
 # In Progress notes 
 - [ ] write about past family situation
 - [ ] write about current family situation
