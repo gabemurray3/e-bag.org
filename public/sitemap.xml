@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/blog-practice/</loc>
-    <lastmod>2024-07-29T15:42:27-07:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2024-07-29T15:42:27-07:00</lastmod>
+    <lastmod>2024-07-29T15:45:54-07:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
+    <lastmod>2024-07-29T15:45:54-07:00</lastmod>
+  </url><url>
+    <loc>/posts/working-notes/</loc>
+    <lastmod>2024-07-29T15:45:54-07:00</lastmod>
+  </url><url>
+    <loc>/posts/blog-practice/</loc>
     <lastmod>2024-07-29T15:42:27-07:00</lastmod>
   </url><url>
     <loc>/posts/moneymaking/</loc>
@@ -19,8 +22,6 @@
   </url><url>
     <loc>/posts/my-notes/</loc>
     <lastmod>2024-04-20T19:30:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/working-notes-1/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>

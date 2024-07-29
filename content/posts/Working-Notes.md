@@ -1,3 +1,8 @@
++++
+title = 'Working Notes'
+date = 2024-07-29T15:45:54-07:00
+draft = false
++++
 # Writing help
 An outline of what ideas you want to expand and write about is great for staying on task while writing in general. I use the word "expand" to emphasize not just having a lot to talk about but having in depth ideas to expand upon through a structured outline.
 
