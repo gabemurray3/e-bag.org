@@ -4,7 +4,7 @@
     <title>My New Hugo Site</title>
     <link>/</link>
     <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- 0.125.1</generator>
+    <generator>Hugo -- 0.130.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2024 15:45:54 -0700</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -51,6 +51,13 @@ Gabriel Murray&amp;rsquo;s blog this will be my first blog that is public
 I have a few things to do to make this website public but for now I want to just get it out there on the internet
 things that i need to do are in no particular order
 connect my domain to my website Customize theme for website figure out hugo&amp;rsquo;s footer and header options figure out what the blog will be about make a section for personal items make a section for coding make a section for progres reports and reflections make a section for life events such as general conference make a section for professional life events such as new job make a blog post join exsiting note daily from personal notes starting from the oldest [[First-Post]] #Tasks #Outline</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/posts/resume-coverletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/resume-coverletter/</guid>
+      <description>Non-IT Roles Banner Health Cardiac Monitor Technician Relays messages about cardiac (heart rhythm) changes in a timely manner to the Registered Nurse (RN) via phone line Make Staff Assignments for Tech stations Notify Certified Nurse Assistant (CNA) of heart detection device issues. Lights By Troy Putting up the Christmas Lights Taking constructive criticism when light installation is not up to company standards Talking to residents for approval IT-Related Roles Student / High School Cisco Packet Tracer Setup and test networking and IT setups for reliability and testing in a virtual environment ability to use managed switches and other technologies and services in a enclosed virtual &amp;ldquo;fake environment&amp;rdquo; Basic Cyber Security and server software Setting up basic IT best practices for windows and Linux for security systems Example: Group Policy Editor in Microsoft Windows &amp;ldquo;Hidden Settings&amp;rdquo; Example: Setting up sudo configurations in Linux Example: ssh configurations files for security Past Home Projects Relating to IT Setting up a Email Server using scripts from Internet Setting up Docker Services Example Web Server Home Lab Local Self Hosted AI using Docker Setting up Arch Linux Alpine Linux Debian and Red hat Linux derivatives Experience with editing Windows setup settings / configuration Example: Preinstalled Software / .</description>
     </item>
   </channel>
 </rss>
